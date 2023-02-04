@@ -1,0 +1,15 @@
+/home/bet/dotnet-experiments/bin/Debug/net7.0/dotnet-experiments
+/home/bet/dotnet-experiments/bin/Debug/net7.0/dotnet-experiments.deps.json
+/home/bet/dotnet-experiments/bin/Debug/net7.0/dotnet-experiments.runtimeconfig.json
+/home/bet/dotnet-experiments/bin/Debug/net7.0/dotnet-experiments.dll
+/home/bet/dotnet-experiments/bin/Debug/net7.0/dotnet-experiments.pdb
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.csproj.AssemblyReference.cache
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.GeneratedMSBuildEditorConfig.editorconfig
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.AssemblyInfoInputs.cache
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.AssemblyInfo.cs
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.csproj.CoreCompileInputs.cache
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.dll
+/home/bet/dotnet-experiments/obj/Debug/net7.0/refint/dotnet-experiments.dll
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.pdb
+/home/bet/dotnet-experiments/obj/Debug/net7.0/dotnet-experiments.genruntimeconfig.cache
+/home/bet/dotnet-experiments/obj/Debug/net7.0/ref/dotnet-experiments.dll
